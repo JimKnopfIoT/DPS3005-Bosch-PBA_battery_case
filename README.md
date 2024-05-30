@@ -18,6 +18,8 @@ Requirements:
 <img src="Iso2.jpg" width="220"> 
 <img src="Iso3.jpg" width="220"> 
 <img src="Iso4.jpg" width="220"> 
+<img src="Iso6.jpg" width="220"> 
+<img src="Iso7.jpg" width="220">  
 </p>
 
 #### Printed part
