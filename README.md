@@ -17,7 +17,9 @@ Requirements:
 <img src="Iso4.jpg" width="220"> 
 </p>
 
-### Printed part
+#### Printed part
+<p align="center">
 <img src="IMG_20240529_204240.jpg" width="220"> 
 <img src="IMG_20240529_204159.jpg" width="220"> 
 <img src="IMG_20240529_204213.jpg" width="220"> 
+</p>
