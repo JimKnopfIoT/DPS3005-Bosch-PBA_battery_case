@@ -3,11 +3,13 @@
 
 #### 3D Case
 The enclosure consists of 2 parts which are screwed together. 
+The Micro-USB adapter board is located on the backside and fits into a frame.
 
 Requirements:
 * 3D printer 
 * Filament of your choice
-* 4 x 3 mm screws with nut. 
+* 4 x 3 mm screws with nut
+* red and black banana jacks (I used 63A Hirschmann banana jacks)
 
 #### 3D view
 <p align="center">
